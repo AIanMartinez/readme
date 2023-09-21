@@ -5,7 +5,7 @@
 
 - 📫 Puedes contactarme por correo electrónico: **alanmartiola@gmail.com**.
 
-- 🖥️ Echa un vistazo a mis proyectos y más en: <a href="https://alanmartinezdev.github.io/">**alanmartinezdev.github.io**</a>.
+- 🖥️ Echa un vistazo a mis proyectos y más en: <a href="https://alanmartinezdev.netlify.app/">**https://alanmartinezdev.netlify.app**</a>.
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
