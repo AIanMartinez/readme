@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en mi portafolio [https://alanmartinez.dev](https://alanmartinez.dev)
 
-- 📫 Contáctame en mi email **hola@alanmartinez.dev**
+- 📫 Contáctame en mi email **alanmartiola@gmail.com**
 
 <h3 align="left">Contáctame</h3>
 <p align="left">
